@@ -1,2 +1,6 @@
-# test_progr_java
-Este es un programa en java, que hace una predicción
+diff --git a/README.md b/README.md
+--- a/README.md
++++ b/README.md
+@@ -1,1 +1,1 @@
+-# calculadora_test
++# calculadora_test
